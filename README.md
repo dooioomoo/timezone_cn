@@ -109,7 +109,7 @@ America/Montevideo	蒙得维的亚
 America/Nassau	拿骚
 America/New_York	纽约
 America/Nipigon	尼皮翁
-America/Nome	姓名
+America/Nome	诺姆
 America/Noronha	诺罗尼亚
 America/North_Dakota/Beulah	北达科他州/贝乌拉
 America/North_Dakota/Center	北达科他州/森特
@@ -127,8 +127,8 @@ America/Punta_Arenas	蓬塔竞技场
 America/Rainy_River	多雨河
 America/Rankin_Inlet	兰金海湾
 America/Recife	累西腓
-America/Regina	女王
-America/Resolute	坚决
+America/Regina	里贾纳
+America/Resolute	雷索卢特
 America/Rio_Branco	里约布兰科
 America/Santarem	桑塔雷姆
 America/Santiago	圣地亚哥
@@ -137,7 +137,7 @@ America/Sao_Paulo	圣保罗
 America/Scoresbysund	瑟莫苏克
 America/Sitka	锡特卡
 America/St_Johns	圣约翰
-America/Swift_Current	急流
+America/Swift_Current	斯威夫特卡伦特
 America/Tegucigalpa	特古西加尔巴
 America/Thule	图勒
 America/Thunder_Bay	雷霆湾
@@ -147,7 +147,7 @@ America/Vancouver	温哥华
 America/Whitehorse	怀特霍斯
 America/Winnipeg	温尼伯
 America/Yakutat	雅库塔
-America/Yellowknife	黄刀
+America/Yellowknife	耶洛奈夫
 Antarctica/Casey	凯西
 Antarctica/Davis	戴维斯
 Antarctica/DumontDUrville	杜蒙杜维尔
@@ -173,8 +173,8 @@ Asia/Beirut	贝鲁特
 Asia/Bishkek	比什凯克
 Asia/Brunei	文莱
 Asia/Chita	赤塔
-Asia/Choibalsan	唱诗班山
-Asia/Colombo	哥伦布
+Asia/Choibalsan	乔巴山
+Asia/Colombo	科伦坡
 Asia/Damascus	大马士革
 Asia/Dhaka	达卡
 Asia/Dili	帝力
