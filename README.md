@@ -185,7 +185,7 @@ Asia/Gaza	加沙
 Asia/Hebron	希布伦
 Asia/Ho_Chi_Minh	胡志明
 Asia/Hong_Kong	香港
-Asia/Hovd	总部
+Asia/Hovd	科布多城
 Asia/Irkutsk	伊尔库茨克
 Asia/Jakarta	雅加达
 Asia/Jayapura	加雅布拉
@@ -229,7 +229,7 @@ Asia/Tokyo	东京
 Asia/Tomsk	托木斯克
 Asia/Ulaanbaatar	乌兰巴托
 Asia/Urumqi	乌鲁木齐
-Asia/Ust-Nera	北美
+Asia/Ust-Nera	乌斯季涅拉
 Asia/Vladivostok	海参崴
 Asia/Yakutsk	雅库茨克
 Asia/Yangon	仰光
